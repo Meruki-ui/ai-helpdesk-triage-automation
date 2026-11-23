@@ -22,7 +22,9 @@ O objetivo é reduzir o tempo gasto por analistas na leitura e categorização m
 - **JSON:** Estruturação de dados para integração perfeita entre os sistemas.
 
 ## 📸 Demonstração
-*(Você vai colocar as imagens aqui depois, veja o Passo 3)*
+![Fluxo do Make](fluxo.png)
+![Configuração das variáveis JSON](json.png)
+![Planilha final](planilha.png)
 
 ## 🚀 Aprendizados
 - Integração de APIs e plataformas de automação.
